@@ -22,19 +22,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/mendeselara/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/daniel-mendes-5b1bb4349/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/736x/45/05/12/4505120eec73930f41cc59fa41f25a4a.jpg"  />
-<img align="right" height="150" src="https://i.pinimg.com/736x/43/96/d7/4396d74fc02a7e494dd144ea2fbab411.jpg"  />
+<img align="left" height="150" src="https://i.pinimg.com/736x/43/96/d7/4396d74fc02a7e494dd144ea2fbab411.jpg"  />
+<img align="left" height="150" src="https://i.pinimg.com/736x/45/05/12/4505120eec73930f41cc59fa41f25a4a.jpg"  />
 
 ###
