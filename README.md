@@ -22,7 +22,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/736x/43/96/d7/4396d74fc02a7e494dd144ea2fbab411.jpg"  />
-<img align="left" height="150" src="https://i.pinimg.com/736x/45/05/12/4505120eec73930f41cc59fa41f25a4a.jpg"  />
+<img align="left" height="150" src="https://tm.ibxk.com.br/2025/01/13/13081924625000.jpg?ims=750x"  />
+<img align="left" height="150" src="https://alexgear.com/cdn/shop/files/Shin-Sakamoto-Days-Green-Jacket.jpg?v=1739870470"  />
 
 ###
