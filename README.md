@@ -23,6 +23,6 @@
 ###
 
 <img align="left" height="150" src="https://tm.ibxk.com.br/2025/01/13/13081924625000.jpg?ims=750x"  />
-<img align="left" height="150" src="https://alexgear.com/cdn/shop/files/Shin-Sakamoto-Days-Green-Jacket.jpg?v=1739870470"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elara-mendes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"/>
 
 ###
