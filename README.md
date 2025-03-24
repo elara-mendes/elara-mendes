@@ -22,7 +22,7 @@
 
 ###
 
-<img align="left" height="150" src="https://tm.ibxk.com.br/2025/01/13/13081924625000.jpg?ims=750x"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elara-mendes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&hide_progress=true" height="150" alt="languages graph"/>
+<img align="left" height="150" src="https://tm.ibxk.com.br/2025/01/10/10171625310740.jpg?ims=750x"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elara-mendes&locale=en&hide_title=true&layout=compact&card_width=150&langs_count=7&theme=dracula&hide_border=true&hide_progress=true" height="150" alt="languages graph"/>
 
 ###
