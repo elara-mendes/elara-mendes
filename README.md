@@ -24,7 +24,8 @@
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/736x/00/41/66/004166c997551b7735a9d7b6661a345e.jpg"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elara-mendes&locale=en&hide_title=true&layout=compact&card_width=150&langs_count=7&theme=dracula&hide_border=true&hide=jupyter%20notebook,html,css" height="150" alt="languages graph"/>
+<h2>Tools I love 👩🏽‍💻</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elara-mendes&locale=en&hide_title=true&layout=compact&card_width=150&langs_count=7&theme=dracula&hide_border=true&hide_progress=true" height="150" alt="languages graph"/>
 
 ###
