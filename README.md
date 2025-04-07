@@ -1,8 +1,8 @@
-<h1 align="left">How are you? 👀</h1>
+<h1 align="left">Glad you stopped by 🌟</h1>
 
 ###
 
-<p align="left">I'm Elara, a trans woman who loves creating useful and cool things. I'm also passionate about forensics and data analysis.</p>
+<p align="left">I'm Elara — I love building useful and meaningful things. I'm passionate about development and data analysis.</p>
 
 ###
 
@@ -15,14 +15,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
 ###
 
-<img align="left" height="150" src="https://tm.ibxk.com.br/2025/01/10/10171625310740.jpg?ims=750x"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elara-mendes&locale=en&hide_title=true&layout=compact&card_width=150&langs_count=7&theme=dracula&hide_border=true&hide=jupyter%20notebook" height="150" alt="languages graph"/>
+<img align="left" height="150" src="https://i.pinimg.com/736x/00/41/66/004166c997551b7735a9d7b6661a345e.jpg"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elara-mendes&locale=en&hide_title=true&layout=compact&card_width=150&langs_count=7&theme=dracula&hide_border=true&hide=jupyter%20notebook,html,css" height="150" alt="languages graph"/>
 
 ###
